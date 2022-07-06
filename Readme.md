@@ -18,14 +18,14 @@ To run this app, you will need to follow these steps:
 ##### 2. Install Node.js
 - [Node.js](https://nodejs.org/en/)
 
-##### 4. Create MogoDB Atlas Database and connect it:
+##### 3. Create MogoDB Atlas Database and connect it:
 - [Create Account](https://www.mongodb.com/atlas/database)
   
 - Create a project and in the project create a new cluster.
 
 - Connect the cluster and get the connection string.
 
-##### 3. Clone the repository using the following command:
+##### 4. Clone the repository using the following command:
 ```
     git clone https://github.com/akshatmittal2002/blog-website.git
 ```
